@@ -1,7 +1,11 @@
 function oneThroughTwenty() {
-   for (let contagem = 0; contagem <= 10 ; contagem++)
+  let return = [];
+
+  for (let contagem = 1; contagem <= 10; contagem++);
+
+   return;
    
-   console.log(oneThroughTwenty)
+   console.log(oneThroughTwenty());
     
     
 }
