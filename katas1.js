@@ -1,7 +1,7 @@
 function oneThroughTwenty() {
-   for (let i = 1; i <= 20; i++)
+   for (let contagem = 0; contagem <= 10 ; contagem++)
    
-   console.log(i)
+   console.log(oneThroughTwenty)
     
     
 }
