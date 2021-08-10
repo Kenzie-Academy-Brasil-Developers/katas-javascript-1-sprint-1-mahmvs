@@ -1,8 +1,8 @@
 function oneThroughTwenty() {
+   for (let i = 1; i <= 20; i++)
+   
+   console.log(i)
     
-   /* Your code goes below
-   Write a for or a while loop
-   return the result*/
     
 }
 
